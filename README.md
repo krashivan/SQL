@@ -1,1 +1,2 @@
-Репозиторий с Практическими Заданиями по курсу SQL
+My SQL
+Krashchenko Portfolio
